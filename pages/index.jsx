@@ -95,7 +95,7 @@ export default function Home() {
               <AiFillYoutube />
             </a>
           </div>
-          <div className="bg-[url('../public/hack2.png')] min-h-[500px] w-full bg-cover bg-center"></div>
+          <div className="mt-10 bg-[url('../public/bg.png')] min-h-[500px] w-full bg-cover bg-center"></div>
           <div className="ring-4 ring-teal-400 overflow-hidden relative bg-gradient-to-t from-white to-teal-500 rounded-full w-80 h-80 mx-auto -mt-40 md:w-96 md:h-96 ">
             <Image layout="fill" objectFit="cover" src={raj} alt="raj" />
           </div>
