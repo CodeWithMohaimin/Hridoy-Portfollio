@@ -21,7 +21,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="p-4 dark:bg-gray-900 dark:text-white">
+      <main className="px-2 dark:bg-gray-900 dark:text-white">
         <section>
           <nav className="flex items-center justify-between max-w-7xl m-auto mb-5 md:mb-12">
             <h1 className="font-semibold text-xl text-left py-4 cursor-pointer sm:text-3xl">
@@ -95,8 +95,8 @@ export default function Home() {
               <AiFillYoutube />
             </a>
           </div>
-
-          <div className="ring-4 ring-teal-400 overflow-hidden relative bg-gradient-to-t from-white to-teal-500 rounded-full w-80 h-80 mx-auto mt-4 md:mt-12 md:w-96 md:h-96 ">
+          <div className="bg-[url('../public/hack2.png')] min-h-[500px] w-full bg-cover bg-center"></div>
+          <div className="ring-4 ring-teal-400 overflow-hidden relative bg-gradient-to-t from-white to-teal-500 rounded-full w-80 h-80 mx-auto -mt-40 md:w-96 md:h-96 ">
             <Image layout="fill" objectFit="cover" src={raj} alt="raj" />
           </div>
 
