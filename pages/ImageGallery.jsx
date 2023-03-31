@@ -15,17 +15,6 @@ import eleven from "../public/hack1.png";
 import twelve from "../public/hack2.png";
 import thirteen from "../public/hack3.png";
 import fourteen from "../public/hack4.png";
-// import eleven from "../public/11.jpg";
-// import twelve from "../public/12.jpg";
-// import thirteen from "../public/13.jpg";
-// import fourteen from "../public/14.jpg";
-// import fifteen from "../public/15.jpg";
-// import sixteen from "../public/16.jpg";
-// import seventeen from "../public/17.jpg";
-// import eighteen from "../public/18.jpg";
-// import nineteen from "../public/19.jpg";
-// import twenty from "../public/20.jpg";
-// import twentyOne from "../public/21.jpg";
 
 const ImageGallery = () => {
   return (
