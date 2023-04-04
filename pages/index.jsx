@@ -89,7 +89,7 @@ export default function Home() {
               title="Raj Official Cover"
               rel="noreferrer"
               target={"_blank"}
-              href="https://www.youtube.com/@rajofficialcover820/videos"
+              href="https://www.youtube.com/@letsgowithneloy"
             >
               {" "}
               <AiFillYoutube />
@@ -213,7 +213,7 @@ export default function Home() {
               <iframe
                 width="100%"
                 height="100%"
-                src="https://www.youtube.com/embed/ZIkjMvAQKLg"
+                src="https://www.youtube.com/@letsgowithneloy"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
               ></iframe>
